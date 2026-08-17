@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "platform": "community",
+  "platform": "somm.finance",
   "applications": [
     "aomi.toml"
   ]
